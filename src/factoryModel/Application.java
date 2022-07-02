@@ -1,9 +1,5 @@
 package factoryModel;
 
-import factoryModel.model.Button;
-import factoryModel.model.Checkbox;
-import factoryModel.model.GUIFactory;
-
 public class Application {
     private Button button;
     private Checkbox checkbox;

@@ -1,9 +1,5 @@
 package factoryModel;
 
-import factoryModel.imp.factory.MacOsFactory;
-import factoryModel.imp.factory.WindowsFactory;
-import factoryModel.model.GUIFactory;
-
 import java.util.Locale;
 
 public class Demo {
